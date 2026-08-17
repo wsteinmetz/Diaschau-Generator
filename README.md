@@ -7,3 +7,4 @@ Das Script kann *.png sowie *.jpg Files verarbeiten.
 
 Einstellmöglichkeiten sind im Script erklärt
 
+Programm mit grafischer Oberfläche wurde hinzugefügt
